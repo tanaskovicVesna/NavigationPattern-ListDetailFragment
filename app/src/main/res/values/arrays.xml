@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="list_item_names">
+        <item>Applepie</item>
+        <item>Cheesecake</item>
+        <item>Coffeecookies</item>
+        <item>Donuts</item>
+        <item>Fruitpie</item>
+        <item>Lemonpie</item>
+        <item>Macarons</item>
+        <item>Moonpie</item>
+        <item>Muffins</item>
+        <item>Pancakes</item>
+        <item>Pumpkinpie</item>
+    </string-array>
+</resources>

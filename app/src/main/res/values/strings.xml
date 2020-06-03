@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Pattern ListDetail</string>
+    <string name="name">NavigationPattern ListDetail</string>
+    <string name="about">About App</string>
+    <string name="about_app">Vesna Tanaskovic made this app</string>
+
+    <string name="name_applepie"></string>
+    <string name="description_applepie">An apple pie is a pie or a tart, in which the principal filling ingredient is apple. It is, on occasion, served with whipped cream or ice cream on top, or alongside cheddar cheese.
+                The pastry is generally used top and bottom, making it a double crust pie. The upper crust may be a circular or a pastry lattice woven of crosswise strips.</string>
+    <string name="name_cheesecake">Cheesecake</string>
+    <string name="description_cheesecake">Cheesecake is a sweet dessert consisting of one or more layers.
+                The main, and thickest layer, consists of a mixture of soft, fresh cheese, typically cream cheese or ricotta, eggs, vanilla and sugar.
+                If there is a bottom layer it often consists of a crust or base made from crushed cookies, biscuits, graham crackers, pastry, or sponge cake. It may be baked or unbaked. Usually it is refrigerated.
+               Cheesecake is sweetened with sugar and may be flavored or topped with fruit, whipped cream, nuts, cookies, fruit sauce, or chocolate syrup.</string>
+    <string name="name_coffeecookies">Coffeecookies</string>
+    <string name="description_coffeecookies">Coffeecookies are sweet biscuits. They are soft, chewy, and thick coffee flavoured chocolate chip cookies topped with a coffee drizzle.</string>
+    <string name="name_donuts">Donuts</string>
+    <string name="description_donuts">Donuts are type of fried dessert food. The two most common types are the ring doughnut and the filled doughnut, which is injected with fruit preserves, cream, custard, or other sweet fillings.
+                Alternatively, small pieces of dough are sometimes cooked as doughnut holes. Once fried, doughnuts may be glazed with a sugar icing, spread with icing or chocolate on top, or topped with powdered sugar or sprinkles or fruit.</string>
+    <string name="name_fruitpie">Fruitpie</string>
+    <string name="description_fruitpie">A pie is a baked dish which is usually made of a pastry dough casing that covers or completely contains a filling fruit and sweet ingredients.</string>
+    <string name="name_lemonpie">Lemonpie</string>
+    <string name="description_lemonpie">A flavorsome lemon pie, filled with large plump lemons and enhanced by vanilla sugar and sweet pastry. Yum.</string>
+    <string name="name_macarons">Macarons</string>
+    <string name="description_macarons">French macarons are thin, flavorful meringue cookies that are sandwiched together with some kind of filling.
+                They are made with egg whites and lots of ground nuts, which helps them to attain that chewy texture without drying out and becoming too crispy, like a simple meringue cookie made with just egg whites and sugar. The fillings can be jams, caramel to buttercream frosting.</string>
+    <string name="name_moonpie">Moonpie</string>
+    <string name="description_moonpie">Moonpie are cookies with crunchy graham flavor, sweet marshmallow frosting and a drizzle of chocolate.</string>
+    <string name="name_muffins">Muffins</string>
+    <string name="name_pancakes">Pancakes</string>
+    <string name="description_pancakes">A pancake is a flat cake, often thin and round, prepared from a starch based batter that may contain eggs, milk and butter and cooked on a hot surface such as a griddle or frying pan, often frying with oil or butter.</string>
+    <string name="name_pumpkinpie">Pumpkinpie</string>
+    <string name="description_pumpkinpie">Pumpkin pie is a dessert pie with a spiced, pumpkin based custard filling. The pumpkin is a symbol of harvest time, and pumpkin pie is often eaten during the fall and early winter.</string>
+    <string name="description_muffins" >Muffins are baked food products. Usually muffens are served for breakfast or with coffee. Muffins are form of bread and they are never frosted.</string>
+</resources>
